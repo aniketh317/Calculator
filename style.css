@@ -1,0 +1,16 @@
+.exp{
+    border: 1px solid black;
+    width: 320px;
+    margin-bottom: 5px;
+}
+.res{
+    border: 1px solid black;
+    width: 320px;
+    margin-top: 5px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
